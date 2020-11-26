@@ -23,6 +23,6 @@ int main()
 		printf("\n");
 			
 	}
-	
+	printf("Huy dep trai");
 	getch();
 }
